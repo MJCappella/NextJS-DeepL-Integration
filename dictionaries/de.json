@@ -1,0 +1,17 @@
+{
+  "common": {
+    "title": "DeepL Übersetzer",
+    "welcome": "Willkommen zur DeepL Übersetzer Demo!",
+    "description": "Diese Anwendung zeigt, wie man die DeepL API für Echtzeit-Textübersetzung in einer Next.js-Anwendung integriert.",
+    "translate_button": "Mit DeepL übersetzen",
+    "original_text_label": "Originaltext:",
+    "translated_text_label": "Übersetzter Text:",
+    "language_switcher_label": "Sprache auswählen:"
+  },
+  "languages": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "es": "Spanisch",
+    "fr": "Französisch"
+  }
+}
